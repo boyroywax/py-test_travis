@@ -7,6 +7,6 @@ install:
 script:
   - pytest
 matrix:
-  include:
+  allow_failures:
     - python: "3.7"
       script: "flake8"

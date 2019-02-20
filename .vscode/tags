@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+TestClass	../test_class.py	/^class TestClass(object):$/;"	kind:class	line:1
+f	../test_sysexit.py	/^def f():$/;"	kind:function	line:2
+func	../test_sample.py	/^def func(x):$/;"	kind:function	line:1
+pytest	../test_sysexit.py	/^import pytest$/;"	kind:namespace	line:1
+test_answer	../test_sample.py	/^def test_answer():$/;"	kind:function	line:4
+test_class.py	../test_class.py	1;"	kind:file	line:1
+test_mytest	../test_sysexit.py	/^def test_mytest():$/;"	kind:function	line:5
+test_one	../test_class.py	/^    def test_one(self):$/;"	kind:member	line:2
+test_sample.py	../test_sample.py	1;"	kind:file	line:1
+test_sysexit.py	../test_sysexit.py	1;"	kind:file	line:1
+test_two	../test_class.py	/^    def test_two(self):$/;"	kind:member	line:6

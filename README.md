@@ -18,6 +18,14 @@ An ecosystem of hundreds of plugins to extend the functionality
 ```
 * https://realpython.com/python-testing/
 
+## Travis CI
+```text
+Matching Jobs with allow_failures #
+
+When matching jobs against the definitions given in allow_failures, all conditions in allow_failures must be met exactly, and all the keys in allow_failures element must exist in the top level of the build matrix (i.e., not in matrix.include).
+```
+* https://docs.travis-ci.com/user/customizing-the-build/
+
 ## Anaconda
 Update anaconda base to Python 3.7.2
 ```bash

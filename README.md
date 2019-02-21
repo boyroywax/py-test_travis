@@ -34,6 +34,8 @@ conda update --all
 ```
 * https://stackoverflow.com/questions/45197777/how-do-i-update-anaconda
 
+up
+
 ## Resources
 * Building a Python Project - https://docs.travis-ci.com/user/languages/python/
 * Test Discovery Good Practices - https://docs.pytest.org/en/latest/goodpractices.html#test-discovery
